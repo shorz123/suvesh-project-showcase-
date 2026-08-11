@@ -1,7 +1,7 @@
-# suvesh-project-showcase-
+# suvesh-project-Logotizer-
 
 
-## Logotizer Product Customizer
+
 <p align="center">
   <img src="images/Suvesh.Logotizer.gif"
        alt="Logotizer Product Customizer Demo"
