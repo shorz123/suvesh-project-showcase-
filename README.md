@@ -8,7 +8,7 @@
        width="800">
 </p>
 
-# Key features:
+# Key features implemented:
 
 - Interactive product and logo customization
 - Image upload, positioning, scaling, and preview
